@@ -1,4 +1,4 @@
-hls-video-tests
+HLS Video Tests
 ===============
 
-Testing HLS Video Playback
+Attempting to see if we can use HLS video across desktop (Flash) and mobile (iOS, Android)
